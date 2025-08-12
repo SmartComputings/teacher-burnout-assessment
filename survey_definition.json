@@ -1,0 +1,172 @@
+{
+  "title": "Teacher Burnout Survey (MVP)",
+  "description": "28-item survey to assess teacher burnout across 6 key domains. All responses are anonymous.",
+  "domains": [
+    {
+      "id": "d1",
+      "name": "Workload"
+    },
+    {
+      "id": "d2",
+      "name": "Emotional Exhaustion"
+    },
+    {
+      "id": "d3",
+      "name": "Depersonalization"
+    },
+    {
+      "id": "d4",
+      "name": "Personal Accomplishment"
+    },
+    {
+      "id": "d5",
+      "name": "Work-Life Balance"
+    },
+    {
+      "id": "d6",
+      "name": "Support & Resources"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "text": "I feel overwhelmed by my teaching workload",
+      "domain": "d1"
+    },
+    {
+      "id": "q2",
+      "text": "I feel emotionally drained from my work",
+      "domain": "d2"
+    },
+    {
+      "id": "q3",
+      "text": "I treat students impersonally",
+      "domain": "d3"
+    },
+    {
+      "id": "q4",
+      "text": "I feel I'm positively influencing students' lives through my work",
+      "domain": "d4"
+    },
+    {
+      "id": "q5",
+      "text": "I have enough time for personal activities outside of work",
+      "domain": "d5"
+    },
+    {
+      "id": "q6",
+      "text": "I receive adequate support from my administration",
+      "domain": "d6"
+    },
+    {
+      "id": "q7",
+      "text": "I have too much paperwork and administrative tasks",
+      "domain": "d1"
+    },
+    {
+      "id": "q8",
+      "text": "Working with students all day is stressful",
+      "domain": "d2"
+    },
+    {
+      "id": "q9",
+      "text": "I don't really care what happens to some students",
+      "domain": "d3"
+    },
+    {
+      "id": "q10",
+      "text": "I deal effectively with student problems",
+      "domain": "d4"
+    },
+    {
+      "id": "q11",
+      "text": "My work schedule allows for adequate rest and recovery",
+      "domain": "d5"
+    },
+    {
+      "id": "q12",
+      "text": "I have access to necessary teaching resources and materials",
+      "domain": "d6"
+    },
+    {
+      "id": "q13",
+      "text": "I feel pressured to meet unrealistic expectations",
+      "domain": "d1"
+    },
+    {
+      "id": "q14",
+      "text": "I feel used up at the end of the workday",
+      "domain": "d2"
+    },
+    {
+      "id": "q15",
+      "text": "I feel students blame me for some of their problems",
+      "domain": "d3"
+    },
+    {
+      "id": "q16",
+      "text": "I feel energized after working closely with students",
+      "domain": "d4"
+    },
+    {
+      "id": "q17",
+      "text": "Work demands interfere with my family life",
+      "domain": "d5"
+    },
+    {
+      "id": "q18",
+      "text": "My colleagues provide helpful professional support",
+      "domain": "d6"
+    },
+    {
+      "id": "q19",
+      "text": "I have more work than I can reasonably handle",
+      "domain": "d1"
+    },
+    {
+      "id": "q20",
+      "text": "I feel burned out from my work",
+      "domain": "d2"
+    },
+    {
+      "id": "q21",
+      "text": "I worry that this job is hardening me emotionally",
+      "domain": "d3"
+    },
+    {
+      "id": "q22",
+      "text": "I can easily create a relaxed atmosphere with my students",
+      "domain": "d4"
+    },
+    {
+      "id": "q23",
+      "text": "I am able to maintain a healthy work-life balance",
+      "domain": "d5"
+    },
+    {
+      "id": "q24",
+      "text": "I receive recognition for my teaching efforts",
+      "domain": "d6"
+    },
+    {
+      "id": "q25",
+      "text": "Class sizes are manageable for effective teaching",
+      "domain": "d1"
+    },
+    {
+      "id": "q26",
+      "text": "I feel frustrated by my job",
+      "domain": "d2"
+    },
+    {
+      "id": "q27",
+      "text": "I feel like I'm at the end of my rope",
+      "domain": "d3"
+    },
+    {
+      "id": "q28",
+      "text": "I accomplish many worthwhile things in this job",
+      "domain": "d4"
+    }
+  ]
+}
